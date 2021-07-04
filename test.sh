@@ -25,14 +25,14 @@ NEW_LENGHT=$(git show HEAD~0:./blackboard/addName.txt | wc -m)
 CHANGE_LENGHT=$(expr $NEW_LENGHT - $LAST_LENGTH)
 
 if [ "$MAX_CHANGE_LENGTH" -lt "$CHANGE_LENGHT" ]; then
-	echo "Should only add $MAX_CHANGE_LENGTH charectors"
-	echo "Trying to add $CHANGE_LENGHT charectors"
+	echo "Should only add $MAX_CHANGE_LENGTH characters"
+	echo "Trying to add $CHANGE_LENGHT characters"
 	exit 1
 fi  		
 
 if [ "$CHANGE_LENGHT" -lt 1 ]; then
-	echo "Should only add charectors"
-	echo "Trying to remove $CHANGE_LENGHT charectors"
+	echo "Should only add characters"
+	echo "Trying to remove $CHANGE_LENGHT characters"
 	exit 1
 fi	 		
 
