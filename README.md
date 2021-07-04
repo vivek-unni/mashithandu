@@ -12,7 +12,7 @@ This is a repo for beginners to experience the path of open source contribution
 Fork this repo.
 
 ```
-💡 search stackoverflow how to Fork a repo in github
+💡 search stackoverflow on how to Fork a repo in github
 
 ```
 
@@ -21,12 +21,12 @@ Fork this repo.
 Clone the repo from your profile
 
 ```
-💡 search stackoverflow how to clone a repo
+💡 search stackoverflow on how to clone a repo
 ```
 
 ## Step 3
 
-Now the repo is in your local directory. Open it in a text editor and add your name and save the file.
+Now the repo is in your local directory. Open it in a text editor. Go to the blackboard folder and add your name to addName.txt file and save the file.
 
 ## Step 4
 
@@ -37,7 +37,7 @@ git add addName.txt
 ```
 - Commit your changes 
 ```
-git commit -m "commit by <insert your name>"
+git commit -m "commit by <insert your name>" eg: git commit -m "yourname"
 ```
 - Push to your repo
 ```
