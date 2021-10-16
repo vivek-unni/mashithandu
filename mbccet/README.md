@@ -1,5 +1,5 @@
 # MBCCET
-![Campus Logo](https://miro.medium.com/max/3150/1*k3FEVWyZ5EVrNvgzsKAFqA.png)
+![Campus Logo](https://user-images.githubusercontent.com/37255301/137591573-ee171112-7a97-45f4-bd74-750d04411526.png)
 
 ## Instructions for students
 
