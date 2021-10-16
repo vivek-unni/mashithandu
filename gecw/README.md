@@ -4,7 +4,7 @@
 > information is available.
 
 # Gec Wayanad
-![Campus Logo](gecw/assets/logo.png)
+![Campus Logo](assets/logo.png)
 
 ## Instructions for students
 
