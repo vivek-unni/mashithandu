@@ -1,23 +1,26 @@
->   This is a sample of how campuses can create their README.md inside
-> their folders. This is only a Guideline so feel free to change it
-> according to your needs. Just make sure that all the relevant
-> information is available.
 
 # Gec Wayanad
 ![Campus Logo](assets/logo.png)
 
-## Instructions for students
-
-- Instruction 1
-- Instruction 2
 
 ## Resources
+-- what is git
+- https://youtu.be/2ReR1YJrNOM
 
-A list of Git/GitHub-related resources that might be helpful here.
+-- install git
+- on linux:   https://youtu.be/ZMgLZUYd8Cw
+- on windows: https://youtu.be/2j7fD92g-gE
+- on mac: https://youtu.be/ZM3I16Z-lxI
+- on android you may need termux installed or you can use Acode ide where you can connect with github account
+
+--how to use github
+
+- https://youtu.be/PQsJR8ci3J0
 
 ## Contacts
+--Arun Thacharuthodi
+- https://wa.me/919074788848
+- discord : arunthacharuthodi#6117
 
-The contact points students/TinkerHub can reach out to if needed.
-
-Lead Name - mail-id/phno/discord-id
-For support - mail-id/phno/discord-id 
+--Amith Lal
+- https://wa.me/
