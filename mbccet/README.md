@@ -80,13 +80,11 @@ __Congrats! You just completed the standard fork -> clone -> edit -> pull reques
 
 - Instruction 2
 
-## Resources
 
-A list of Git/GitHub-related resources that might be helpful here.
 
 ## Contacts
 
-The contact points students/TinkerHub can reach out to if needed.
+The contact points students/TinkerHub can reach out to if needed
 
-Lead Name - mail-id/phno/discord-id
-For support - mail-id/phno/discord-id 
+Lead Name - athulofficial01@gmail.com/+91 88483 38058
+For support - ashiksaleem20@gmail.com/+91 85900 70941
