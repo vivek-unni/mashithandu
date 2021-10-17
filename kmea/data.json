@@ -15,6 +15,14 @@
       "department": "Mechanical Engineering",
       "upload_pic": "true",
       "file_name": "muhammed-raees-pic.jpg"
-    }
+    },
+    {
+      "name": "Farzana Khareem",
+      "github": "https://github.com/farzanakhareem",
+      "college": "KMEA",
+      "department": "Computer Science",
+      "upload_pic": "true",
+      "file_name": "farzana-khareem-pic.jpg"
+    },
   ]
 }
