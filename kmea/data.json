@@ -15,14 +15,18 @@
       "department": "Mechanical Engineering",
       "upload_pic": "true",
       "file_name": "muhammed-raees-pic.jpg"
-
     },
     {
-         "name": "Riswana E A",
+      "name": "Riswana E A",
       "github": "https://github.com/RiswanaEA",
       "college": "KMEA",
       "department": "Computer science",
+    },
+    {
+      "name":"Rizwan K Rahim",
+      "github":"https://github.com/RIZWAN-17",
+      "college":"KMEA",
+      "department":"Computer Science and Engineering"
     }
-
   ]
 }
