@@ -10,7 +10,7 @@ Create a fork of this repo to your account.
 ```
 
 ### Contribute
-Add your contribution to the repo by creating a text file with the filename as your name (Eg:Abijith.txt) within this folder .
+Create a readme file with your name (Eg:Abijith.md) inside 'cce' folder and add your contribution(Eg:Write something about yourself or about something you like) .
 
 ```
 💡 Contact your tech lead in case of any doubt .
@@ -18,7 +18,7 @@ Add your contribution to the repo by creating a text file with the filename as y
 
 ### Create a pull request
 
-After committing and pushing your changes go to your fork and create a pull request to your org's repo ( the repo from where you initially forked ). Make sure you give a good title and description for your pull request.
+After committing and pushing your changes go to your fork and create a pull request to this repo(tinkerhubcce/mashithandu). Make sure you give a good title and description for your pull request.
 
 
 ## Resources
@@ -26,5 +26,6 @@ After committing and pushing your changes go to your fork and create a pull requ
 Use these resources to learn git and GitHub.
 
 - [Learn git concepts, not commands - DEV Community](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+- <a href='https://guides.github.com/introduction/git-handbook/'> Git-Handbook </a>
 
 
