@@ -15,6 +15,14 @@
       "department": "Mechanical Engineering",
       "upload_pic": "true",
       "file_name": "muhammed-raees-pic.jpg"
+    },
+    {
+      "name": "Maria Ashigha",
+      "github": "https://github.com/MariaAshigha",
+      "college": "KMEA",
+      "department": "computer science and Engineering",
+      "upload_pic": "true",
+      "file_name": "maria-ashigha-pic.jpg"
     }
   ]
 }
