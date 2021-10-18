@@ -17,7 +17,7 @@
   - on android you may need termux installed or you can use Acode ide where you can connect with github account
 
 - Git Cheat Sheet
-  - (assets/cheatsheet.pdf)
+  - ![Git Cheatsheet](assets/cheatsheet.pdf)
 
 - How to use github
   - https://youtu.be/PQsJR8ci3J0
