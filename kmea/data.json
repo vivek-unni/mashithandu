@@ -23,6 +23,38 @@
       "department": "computer science and Engineering",
       "upload_pic": "true",
       "file_name": "maria-ashigha-pic.jpg"
-    }
+    },
+    {
+      "name": " Roushath Beevi K.S",
+      "github":"https://github.com/Roushathbeeviks",
+      "college": "KMEA",
+      "department": "CSE",
+     },
+     {
+      "name": "Farzana Khareem",
+      "github": "https://github.com/farzanakhareem",
+      "college": "KMEA",
+      "department": "Computer Science",
+      "upload_pic": "true",
+      "file_name": "farzana-khareem-pic.jpg"
+    },
+    {
+      "name": "Riswana E A",
+      "github": "https://github.com/RiswanaEA",
+      "college": "KMEA",
+      "department": "Computer science",
+    },
+    {
+      "name":"Rizwan K Rahim",
+      "github":"https://github.com/RIZWAN-17",
+      "college":"KMEA",
+      "department":"Computer Science and Engineering"
+    },
+    {
+       "name":"Nujoom Rahman ",
+      "github":"https://github.com/NujoomR",
+      "college":"KMEA",
+      "department":"Mechanical engineering"
+      }
   ]
 }
