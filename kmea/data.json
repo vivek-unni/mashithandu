@@ -26,11 +26,11 @@
     },
     {
       "name": " Roushath Beevi K.S",
-      "github":"https://github.com/Roushathbeeviks",
+      "github": "https://github.com/Roushathbeeviks",
       "college": "KMEA",
-      "department": "CSE",
-     },
-     {
+      "department": "CSE"
+    },
+    {
       "name": "Farzana Khareem",
       "github": "https://github.com/farzanakhareem",
       "college": "KMEA",
@@ -42,19 +42,19 @@
       "name": "Riswana E A",
       "github": "https://github.com/RiswanaEA",
       "college": "KMEA",
-      "department": "Computer science",
+      "department": "Computer science"
     },
     {
-      "name":"Rizwan K Rahim",
-      "github":"https://github.com/RIZWAN-17",
-      "college":"KMEA",
-      "department":"Computer Science and Engineering"
+      "name": "Rizwan K Rahim",
+      "github": "https://github.com/RIZWAN-17",
+      "college": "KMEA",
+      "department": "Computer Science and Engineering"
     },
     {
-       "name":"Nujoom Rahman ",
-      "github":"https://github.com/NujoomR",
-      "college":"KMEA",
-      "department":"Mechanical engineering"
-      }
+      "name": "Nujoom Rahman ",
+      "github": "https://github.com/NujoomR",
+      "college": "KMEA",
+      "department": "Mechanical engineering"
+    }
   ]
 }
