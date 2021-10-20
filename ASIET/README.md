@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="./assets/TinkerHub_ASIET.png" alt="KMEA Logo"/>
+    <img src="./assets/Tinkerhub_ASIET.jpg" alt="KMEA Logo"/>
 </div>
 
 ## Instructions for students
