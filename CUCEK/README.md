@@ -1,23 +1,43 @@
->   This is a sample of how campuses can create their README.md inside
-> their folders. This is only a Guideline so feel free to change it
-> according to your needs. Just make sure that all the relevant
-> information is available.
+# TinkerHub CUCEK
 
-# Sample Campus
-![Campus Logo](https://www.somesite.com/yourlogo.png)
+![Campus Logo](https://github.com/TinkerHub-CUCEK/mashithandu/blob/main/CUCEK/assets/thub.jpeg)
 
 ## Instructions for students
 
-- Instruction 1
-- Instruction 2
+### For this repo
+
+Create a fork of this repo to your account.
+
+```
+💡 search StackOverflow on how to Fork a repo in GitHub
+```
+
+or
+
+[Refer GitHub Docs by clicking here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+
+### Contribute
+
+Add your contribution to the repo by editing the contents of the folder with your campus name(CUCEK).
+
+- Add your contribution to the repo by making a file with your name, and sweet content about who you are within it. Read the readme for more details.
+
+- After committing and pushing your changes go to your fork and create a pull request to Tinkerhub-CUCEK's repo (the repo from where you initially forked). Make sure you give a good title and description for your pull request.
+
+- Only one PR from a student will be allowed in the Mashithandu repo.
 
 ## Resources
 
-A list of Git/GitHub-related resources that might be helpful here.
+Intro to Git and GitHub [click here](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 ## Contacts
 
 The contact points students/TinkerHub can reach out to if needed.
 
-Lead Name - mail-id/phno/discord-id
-For support - mail-id/phno/discord-id 
+#### Vyshnav K S
+
+#### mail: [vyshnavks85@gmail.com](mailto::vyshnav)
+
+#### discord id: Vyshnav#0350
+
+For support - tinkerhubcucek@gmail.com
