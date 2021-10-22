@@ -34,8 +34,10 @@ Git and GitHub [click here](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 The contact points students/TinkerHub can reach out to if needed.
 
-Vyshnav K S
-mail: vyshnavks85@gmail.com
-discord id: Vyshnav#0350
+#### Vyshnav K S
+
+#### mail: [vyshnavks85@gmail.com](mailto::vyshnav)
+
+#### discord id: Vyshnav#0350
 
 For support - tinkerhubcucek@gmail.com
