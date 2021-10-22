@@ -14,7 +14,7 @@ Create a fork of this repo to your account.
 
 or
 
-[Or refer GitHub Docs by clicking here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+[Refer GitHub Docs by clicking here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 ### Contribute
 
@@ -28,7 +28,7 @@ Add your contribution to the repo by editing the contents of the folder with you
 
 ## Resources
 
-Git and GitHub [click here](https://www.youtube.com/watch?v=apGV9Kg7ics)
+Intro to Git and GitHub [click here](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 ## Contacts
 
