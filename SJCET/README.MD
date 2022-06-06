@@ -28,8 +28,5 @@ Use these resources to learn git and GitHub.
 - [Learn github](https://docs.github.com/en)
 - <a href='https://guides.github.com/introduction/git-handbook/'> Git-Handbook </a>
 
-## Contacts
-- Tomin Joy
-  - WhatsApp : https://wa.me/919400836474
-  - Discord : Tomin#6602
+
 
